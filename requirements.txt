@@ -29,3 +29,4 @@ torchgeo
 torchinfo
 tqdm
 transformers>=4.56.2
+spacy>=3.8.14
